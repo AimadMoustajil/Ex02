@@ -1,42 +1,16 @@
 # Master Git - Menu
 
-## Setting Up
-  - `git config --global user.name "Your Name"`
-  - `git config --global user.email "your.email@example.com"`
-  - `git init`
-  - `git remote add origin [repository-url]`
+## [Setting Up](Setting.md)
 
-## Inspection
-  - `git log`
-  - `git diff`
+## [Inspection](Inspection.md)
 
-## Saving Changes
-  - `git add <file(s)>`
-  - `git commit -m "Your commit message"`
+## [Saving Changes](SavingChanges.md)
 
-## Working with Branches
-  - `git branch`
-  - `git switch <branch-name>`
-  - `git checkout <branch-name>`
-  - `git merge <branch-name>`
-  - `git switch -c <new-branch-name>`
-  - `git checkout -b <new-branch-name>`
+## [Working with Branches](WorkingwithBranches.md)
 
-## Undoing Changes
-  - `git rebase`
-  - `git reset`
-  - `git revert`
-  - `git --amend`
-  - `git reflog`
-  - `git restore`
+## [Undoing Changes](UndoingChanges.md)
 
-## Collaborating
-  - `git push`
-  - `git merge`
+## [Collaborating](Collaborating.md)
 
-## Miscellaneous
-  - `ls`
-  - `ls-files`
-  - `ls-tree`
-  - `touch`
-  - `mkdir`
+## [Miscellaneous](Miscellaneous.md)
+ 
